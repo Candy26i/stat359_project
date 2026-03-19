@@ -6,8 +6,9 @@ This project trains and evaluates a small arithmetic language model in five stag
 2. Train tokenizer
 3. Train foundational model
 4. Fine-tune instruction model
-5. Optionally fine-tune with LoRA
-
+5. Fine-tune with LoRA
+6. Some help python functions to examine results
+   MODEL IS TOO BIG SO DID NOT UPLOAD
 ## Notes
 CHECK OUT venv_setup.md for environment setup
 - Replace `YYYYMMDD_HHMMSS` with an actual run directory under `models/`.
