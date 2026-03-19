@@ -9,7 +9,7 @@ This project trains and evaluates a small arithmetic language model in five stag
 5. Optionally fine-tune with LoRA
 
 ## Notes
-
+CHECK OUT venv_setup.md for environment setup
 - Replace `YYYYMMDD_HHMMSS` with an actual run directory under `models/`.
 - Example: `models/foundational_20260201_012912_173614/best_model.pt`
 - All commands below use the `code` package path because the project files are stored in the `code/` folder.
